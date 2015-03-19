@@ -1,0 +1,33 @@
+{
+	"name": "packetizer-requirejs",
+	"version": "0.0.0",
+	"author": {
+		"name": "Alexander Kuznetsov",
+		"email": "alexander@kuznetsov.by",
+		"url": "http://kuznetsov.by/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shkuznetsov/packetizer-requirejs.git"
+	},
+	"homepage": "https://github.com/shkuznetsov/packetizer-requirejs",
+	"keywords": [
+		"packetizer",
+		"hook",
+		"requirejs"
+	],
+	"dependencies": {
+		"lodash": "~3.3",
+		"promise": "~6.1",
+		"packetizer": "~0.0"
+	},
+	"licenses": [
+		{
+			"type": "MIT"
+		}
+	],
+	"readmeFilename": "README.md",
+	"bugs": {
+		"url": "https://github.com/shkuznetsov/packetizer-requirejs/issues"
+	}
+}
